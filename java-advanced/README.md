@@ -1,1 +1,1 @@
-Read
+Main solutions in "solutions" :)
