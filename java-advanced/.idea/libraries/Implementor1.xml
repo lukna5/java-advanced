@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Implementor1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/solutions/java-solutions/Implementor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
